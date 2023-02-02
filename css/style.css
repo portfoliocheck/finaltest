@@ -6,6 +6,19 @@
     --dark: #04000B;
 }
 
+#landing-moto {
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#services-supportive {
+    opacity: 0.9;
+    font-size: 19px;
+}
+.services-opacity2 {
+    opacity: 0.4;
+}
+
 .font-large {
     font-size: 19px;
 }
