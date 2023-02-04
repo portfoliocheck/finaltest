@@ -305,7 +305,7 @@ body, .container1, .video-controls, .video-timer, .options{
   cursor: pointer;
 }
 .video-timeline .progress-area{
-  height: 3px;
+  height: 4px;
   position: relative;
   background: rgba(255, 255, 255, 0.6);
 }
@@ -323,6 +323,7 @@ body, .container1, .video-controls, .video-timer, .options{
   height: 100%;
   position: relative;
   background: #2289ff;
+  /* background: #6222CC; */
 }
 .progress-bar::before{
   content: "";
